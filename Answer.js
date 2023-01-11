@@ -14,4 +14,5 @@ Until the conditions are not met (here, the case of x*x≥36), the value of x is
 */
 
 console.log(x) //print x
+// x==> 6
 //End the program
